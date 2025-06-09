@@ -1,6 +1,6 @@
 # InputChip Component
 
-This is a simple React component that allows users to input text and display it as interactive "chips." Users can add new chips and remove existing ones.
+This is a simple React component that allows users to input text and display it as interactive "chips." Users can add new chips and remove existing ones
 
 ---
 
