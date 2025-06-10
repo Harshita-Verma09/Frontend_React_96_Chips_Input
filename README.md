@@ -5,7 +5,6 @@ This is a simple React component that allows users to input text and display it 
 ---
 
 ## Features
-
 * **Add Chips:** Type into the input field and click "**Add**" to create a new chip.
 * **Remove Chips:** Click the "**×**" button on a chip to remove it.
 * **Prevent Duplicates:** The component prevents adding duplicate chips.
