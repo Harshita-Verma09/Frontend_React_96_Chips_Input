@@ -20,6 +20,7 @@ This is a simple React component that allows users to input text and display it 
 
 ---
 
+
 ## Installation
 
 1.  **Clone the repository (or copy the `InputChip.js` file):**
@@ -28,6 +29,7 @@ This is a simple React component that allows users to input text and display it 
     git clone <repository_url>
     cd <repository_name>
     ```
+
 
 2.  **Install dependencies:**
 
@@ -45,9 +47,11 @@ This is a simple React component that allows users to input text and display it 
 
 ---
 
+
 ## Usage
 
 To use the `InputChip` component, simply import it into your React application and render it.
+
 
 ```javascript
 import React from 'react';
