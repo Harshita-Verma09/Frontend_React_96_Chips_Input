@@ -3,7 +3,6 @@
 This is a simple React component that allows users to input text and display it as interactive "chips." Users can add new chips and remove existing ones
 
 ---
-
 ## Features
 * **Add Chips:** Type into the input field and click "**Add**" to create a new chip.
 * **Remove Chips:** Click the "**×**" button on a chip to remove it.
@@ -66,3 +65,6 @@ function App() {
 }
 
 export default App;
+
+
+.
