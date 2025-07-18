@@ -8,6 +8,7 @@ const InputChip = () => {
         setVal(e.target.value);
     };
 
+    
     const handleAdd = () => {
         const inputChip = val.trim();
         if (inputChip && !chips.includes(inputChip)) {
